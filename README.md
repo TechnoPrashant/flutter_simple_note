@@ -9,7 +9,7 @@
 Star⭐ the repo if you like what you see😉.
 
 # Screenshot
-<img src="https://github.com/Prashant09mca/flutter_simple_note/blob/master/s1.png"/>
+<img src="https://github.com/Prashant09mca/flutter_simple_note/blob/master/ss1.png"/>
 
 
 # Requirements
