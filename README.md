@@ -2,7 +2,7 @@
 - sqflite. 
 - Listview. 
 - Compatible with Android/iOS.
-- Add, Edit and Delete Opration.
+- Add, Edit and Delete Operation.
 - Add Note priority based.
 
 
